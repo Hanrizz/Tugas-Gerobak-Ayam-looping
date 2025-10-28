@@ -1,1 +1,0 @@
-print("halo, Python dari VS Code!")
