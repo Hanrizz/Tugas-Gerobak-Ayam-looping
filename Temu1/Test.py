@@ -1,5 +1,0 @@
-print("======================================")
-print("Nama: Muhammad Fajar Handhika Rizki")
-print("Kelas: 15.1B.01")
-print("Jurusan: Informatika")
-print("=======================================")
